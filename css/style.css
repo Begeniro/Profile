@@ -49,20 +49,26 @@ section{
 
 #info{
 	width: 50%;
+	text-align: center;
 }
 #info p{
-	padding-right: 24px
+	padding-right: 24px;
+	padding-left: 24px;
 	line-height: 24px;
 	color: grey;
-	font-size: 14px;
+	font-size: 20px;
+	text-align: justify;
 }
 
 #gambar{
 	width: 50%;
-	background-color: grey;
 	border-radius: 20px;
 }
 #gambar img{
 	width: 100%;
 
+}
+#tentang_kami{
+	background-color: grey;
+	text-align: center;
 }
